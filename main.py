@@ -7,7 +7,6 @@ import uvicorn
 
 app = FastAPI()
 
-db = []
 
 # for Deployment
 if __name__ == "__main__":
