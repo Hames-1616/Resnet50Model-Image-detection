@@ -1,0 +1,4 @@
+.T = transpose
+.flatten = 1d array
+.reshape = change in dimensions
+.size = dimensions
